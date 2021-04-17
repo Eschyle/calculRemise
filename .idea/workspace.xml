@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e70c33cb-f5b1-4d2f-9c79-a1b6babd71d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../caillegro/caillegroBack" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../node_modules/.bin/_metalsmith" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../node_modules/.bin/_metalsmith.cmd" afterDir="false" />
@@ -7372,13 +7371,12 @@
       <change afterPath="$PROJECT_DIR$/../react/react-tuto/src/setupTests.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../react/react-tuto/yarn.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../simonProject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env.test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CalculRemise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CalculRemise.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phpunit.xml.dist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/Calculator.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calcul/Calculator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repository/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Unit/CalculRemiseTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Unit/CalculRemiseTest.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../caillegro/caillegroFront/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/../caillegro/caillegroFront/.babelrc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../caillegro/caillegroFront/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../caillegro/caillegroFront/.editorconfig" afterDir="false" />
@@ -7553,6 +7551,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\CalculRemise\src\Calcul" />
       <recent name="C:\wamp64\www\CalculRemise\tests\Unit" />
       <recent name="C:\wamp64\www\CalculRemise\src\Controller" />
       <recent name="C:\wamp64\www\CalculRemise\tests\Calcul" />
@@ -7572,7 +7571,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618640544442</updated>
-      <workItem from="1618640545575" duration="6475000" />
+      <workItem from="1618640545575" duration="7180000" />
     </task>
     <servers />
   </component>
